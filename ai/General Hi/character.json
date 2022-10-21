@@ -133,7 +133,7 @@
 	"DefUnit6": "ArabArcher",
 	"DefUnit7": "ArabSwordsman",
 	"DefUnit8": "ArabArcher",
-	"RaidUnitsBase": 207,
+	"RaidUnitsBase": 231,
 	"RaidUnitsRandom": 69,
 	"RaidUnit1": "HorseArcher",
 	"RaidUnit2": "HorseArcher",

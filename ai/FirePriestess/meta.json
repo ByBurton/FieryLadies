@@ -1,0 +1,19 @@
+{
+  "name": "FirePriestess",
+  "description": "<Insert description for modloader or similar here.>",
+  "author": "Kimberly Azula",
+  "link": "Link to mods, maybe urls?",
+  "version": "1.0.0",
+  "defaultLang": "en",
+  "supportedLang": ["en", "de"],
+  "switched": {
+    "binks": false,
+    "speech": false,
+    "aic": true,
+    "aiv": true,
+    "lord": true,
+    "startTroops": true,
+    "lines": false,
+    "portrait": false
+  }
+}
